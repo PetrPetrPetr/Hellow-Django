@@ -1,3 +1,3 @@
 # Hellow-Django
-Django-Django
+Django-Django. 
 Проба кирилицы.
